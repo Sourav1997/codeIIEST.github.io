@@ -1,7 +1,14 @@
 ---
 layout: page
-title: Bootstrap Chapter
+title: Security Chapter
 ---
+Security is an important aspect in today's world. In this chapter we provide the basic understandings and introduction to security.By enabling young coders to become more aware of the theats to security of a program and it's data.
+
+#### Chapter Incharge :
+
+<img src='/img/rahul.jpg' width="100">
+
+#### Contact:
+phone: +91-9836409692
 
 
-The Bootstrap chapter aims at teaching basics and new trend in the domain of web designing. This chapter conducts classes where the first few classes aim at teaching basics of HTML5, CSS3 along with animations using css, followed by few classes on javascript. We then move onto backend- php, ajax etc. We also work on CMSs like joomla and wordpress. This chapter is all about keeping up with the latest trends in web designing and development.
