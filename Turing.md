@@ -8,3 +8,11 @@ Ever wondered how are you able to speak and write some languages while not under
 But we human beings have some limitations. We are bounded by time. So to overcome this constraint we teach machines and This art of teaching machines to get a quick and favourable outcome is known as "machine learning".
 
 Here at Turing Chapter, our innovative minds find out the different ways we can use machine learning to solve our real life problems effectively and efficiently.
+
+#### Chapter Incharge :
+
+<img src='/img/ranit.jpg' width="100">
+
+#### Contact:
+phone: +91-9088179430
+
