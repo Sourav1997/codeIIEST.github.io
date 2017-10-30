@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About CodeIIEST
+title: Welcome to CodeIIEST
 subtitle: Who we are
 image: /img/codeiiest.jpg
 ---
