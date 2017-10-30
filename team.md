@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Team
-subtitle: Ode to Code
+subtitle:  CodeIIEST
 ---
 
 
