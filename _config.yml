@@ -26,9 +26,9 @@ navbar-links:
   #Achievements: "achieve"
   Chapters:
      - Competitive Coding: "comcode"
-     - Linus Chapter: "Linus"
-     - Bootstrap Chapter: "Bootstrap"
-     - Turing Chapter: "Turing"
+     - Open Source Chapter: "Linus"
+     - Security Chapter: "Bootstrap"
+     - Machine Learning Chapter: "Turing"
   Team: "team"
     
   Blog: "http://codeiiest.github.io/Algorithms/"
